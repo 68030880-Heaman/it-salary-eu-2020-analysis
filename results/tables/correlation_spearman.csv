@@ -1,0 +1,6 @@
+,salary_eur,age,exp_total_years,exp_germany_years,vacation_days
+salary_eur,1.0,0.32,0.5,0.41,0.14
+age,0.32,1.0,0.69,0.44,0.17
+exp_total_years,0.5,0.69,1.0,0.45,0.13
+exp_germany_years,0.41,0.44,0.45,1.0,0.23
+vacation_days,0.14,0.17,0.13,0.23,1.0
